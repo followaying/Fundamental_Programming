@@ -1,0 +1,3 @@
+﻿  lab3.cpp
+D:\Fundamental Programming\212\Lab\lab3\lab3\lab3.cpp(49,22): error C2100: illegal indirection
+D:\Fundamental Programming\212\Lab\lab3\lab3\lab3.cpp(49,19): error C2088: '<<': illegal for class

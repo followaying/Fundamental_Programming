@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Fundamental Programming\212\Assignment2\main\main\studyInPink3a.h(97,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Fundamental Programming\212\Assignment2\main\main\studyInPink3a.h(126,23): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  main.vcxproj -> D:\Fundamental Programming\212\Assignment2\main\x64\Debug\main.exe

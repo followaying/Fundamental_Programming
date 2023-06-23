@@ -1,0 +1,15 @@
+﻿  checktestcase.cpp
+D:\Fundamental Programming\212\Assignment2\main\main\studyInPink3a.h(99,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Fundamental Programming\212\Assignment2\main\main\studyInPink3a.h(128,23): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Fundamental Programming\212\Assignment2\checktestcase\checktestcase\checktestcase.cpp(12,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Fundamental Programming\212\Assignment2\checktestcase\checktestcase\checktestcase.cpp(26,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Fundamental Programming\212\Assignment2\checktestcase\checktestcase\checktestcase.cpp(43,27): error C2065: 'first_point_index': undeclared identifier
+D:\Fundamental Programming\212\Assignment2\checktestcase\checktestcase\checktestcase.cpp(47,27): error C2065: 'first_point_index': undeclared identifier
+D:\Fundamental Programming\212\Assignment2\checktestcase\checktestcase\checktestcase.cpp(86,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Fundamental Programming\212\Assignment2\checktestcase\checktestcase\checktestcase.cpp(129,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Fundamental Programming\212\Assignment2\checktestcase\checktestcase\checktestcase.cpp(130,57): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Fundamental Programming\212\Assignment2\checktestcase\checktestcase\checktestcase.cpp(258,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Fundamental Programming\212\Assignment2\checktestcase\checktestcase\checktestcase.cpp(280,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Fundamental Programming\212\Assignment2\checktestcase\checktestcase\checktestcase.cpp(288,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Fundamental Programming\212\Assignment2\checktestcase\checktestcase\checktestcase.cpp(330,44): error C2039: 'getCurrentPosition': is not a member of 'Character'
+D:\Fundamental Programming\212\Assignment2\main\main\studyInPink3a.h(64): message : see declaration of 'Character'

@@ -1,0 +1,3 @@
+Can reach: 0
+outTimes: 1974;2744;2884;3514;4872;5026;6860;7910;8806
+outCatchUps: N;N;N;N;N;N;N;N;N

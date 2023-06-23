@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Fundamental Programming\212\Assignment0\main\main\studyInPink.h(123,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Fundamental Programming\212\Assignment0\main\main\studyInPink.h(124,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Fundamental Programming\212\Assignment0\main\main\studyInPink.h(169,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  main.vcxproj -> D:\Fundamental Programming\212\Assignment0\main\x64\Debug\main.exe

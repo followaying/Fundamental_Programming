@@ -1,0 +1,5 @@
+﻿  testcase2.cpp
+D:\Fundamental Programming\212\Assignment2\main\main\studyInPink3a.h(100,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Fundamental Programming\212\Assignment2\main\main\studyInPink3a.h(131,23): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Fundamental Programming\212\Assignment2\testcase2\testcase2\testcase2.cpp(125,33): warning C4805: '!=': unsafe mix of type 'int' and type 'bool' in operation
+  testcase2.vcxproj -> D:\Fundamental Programming\212\Assignment2\testcase2\x64\Debug\testcase2.exe

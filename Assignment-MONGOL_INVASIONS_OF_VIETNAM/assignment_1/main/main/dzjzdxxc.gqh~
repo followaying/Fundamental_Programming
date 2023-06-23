@@ -1,0 +1,72 @@
+//
+// Created by Nhan Nguyen on 01/03/2021.
+//
+#ifndef MONGOL_H
+#define MONGOL_H
+
+// The library here is concretely set, students are not allowed to include any other libraries.
+
+string readyForBattle(const string ID[], const int NID, const string input1[], const int N1);
+int decode(const string A, const string B);
+string findRoute(const string ID[], const int NID, const string input3[]);
+string decodeVfunction(const string A, const string B);
+string findBetrayals(const string input5[], const int N5);
+int attack(const string input6[]);
+int calculateNoOfWaitingDays(const string input7Str, const string input7Matrix, const int N7);
+
+////////////////////////////////////////////////////////////////////////////
+/// STUDENT'S ANSWER HERE
+////////////////////////////////////////////////////////////////////////////
+
+string readyForBattle(const string ID[], const int NID, const string input1[], const int N1)
+{
+    int i = 0, j = 0, l = 0, local = 0; string temp;
+    while (j != N1)
+    {
+        i = 0; l = 0;
+        while (i != input1[j].length() + 1)
+        {
+            if (input1[j][i] == 32 || input1[j][i] == 13 || i == input1[j].length())
+            {
+                if (i > 2 && l != 0) l = l + 2;
+                else l =  l + 1;
+                while (l <= i)
+                {
+                    //temp[local] = (int)input1[j][l - 1] * 2 + (int)input1[j][l];
+                    local += 2; l += 2;
+                }
+                l = i;
+                //if (local >= 1) temp[local - 1] = input1[j][i];
+            }
+            i++;
+        }
+        j++;
+    }
+    return "You can remove this return";
+}
+int decode(const string A, const string B)
+{
+    return -1;
+}
+string findRoute(const string input3)
+{
+    return "You can remove this return";
+}
+string decodeVfunction(const string A, const string B)
+{
+    return "You can remove this return";
+}
+string findBetrayals(const string input5[], const int N5)
+{
+    return "You can remove this return";
+}
+int attack(const string input6[])
+{
+    return -1;
+}
+int calculateNoOfWaitingDays(const string input7Str, const string input7Matrix[], const int k)
+{
+    return -1;
+}
+
+#endif /* MONGOL_H */

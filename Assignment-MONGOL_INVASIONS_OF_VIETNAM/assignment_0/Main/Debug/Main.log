@@ -1,0 +1,24 @@
+﻿  Main.cpp
+D:\Assignment 0\main\Main\Main\firstFight.h(173,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Assignment 0\main\Main\Main\firstFight.h(180,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Assignment 0\main\Main\Main\firstFight.h(203,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Assignment 0\main\Main\Main\firstFight.h(240,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Assignment 0\main\Main\Main\firstFight.h(241,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Assignment 0\main\Main\Main\firstFight.h(249,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Assignment 0\main\Main\Main\firstFight.h(254,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Assignment 0\main\Main\Main\firstFight.h(255,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Assignment 0\main\Main\Main\firstFight.h(263,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Assignment 0\main\Main\Main\firstFight.h(277,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Assignment 0\main\Main\Main\firstFight.h(282,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Assignment 0\main\Main\Main\firstFight.h(283,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Assignment 0\main\Main\Main\firstFight.h(285,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Assignment 0\main\Main\Main\firstFight.h(293,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Assignment 0\main\Main\Main\firstFight.h(304,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Assignment 0\main\Main\Main\firstFight.h(306,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Assignment 0\main\Main\Main\firstFight.h(309,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Assignment 0\main\Main\Main\firstFight.h(319,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Assignment 0\main\Main\Main\firstFight.h(321,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Assignment 0\main\Main\Main\firstFight.h(323,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Assignment 0\main\Main\Main\firstFight.h(335,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Assignment 0\main\Main\Main\firstFight.h(336,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Main.vcxproj -> D:\Assignment 0\main\Main\Debug\Main.exe
